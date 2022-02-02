@@ -10,11 +10,6 @@ import static org.hamcrest.Matchers.equalTo;
 
 public class LegumesFile{
  //Rest-Assured  
- //[{"description":"Winter fruit","name":"Apple"},
- //{"description":"Tropical fruit","name":"Pineapple"}]
-
-
-
 
     @Test
     public void testGetLegumes() {
